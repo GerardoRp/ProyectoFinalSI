@@ -18,14 +18,14 @@ El sistema utiliza algoritmos de Q-Learning Simplificado, Memoria Retrospectiva 
 Este software no requiere instalación formal, se ejecuta como una aplicación portable ("Standalone").
 
 1. Descarga y Preparación
-Descargue el archivo comprimido SimulacionLeon.zip (o Entrega_Ejecutable.zip) desde el repositorio o la plataforma de entrega.
-
+Descargue el archivo comprimido Juego Final SI.rar que esta dentro de la carpeta Entrega_Ejecutable desde este repositorio.
+rar
 Mueva el archivo a una ubicación segura (ej. Escritorio o Documentos).
 
 2. Descompresión (¡IMPORTANTE!)
-⚠️ No ejecute el juego directamente desde el archivo ZIP.
+⚠️ No ejecute el juego directamente desde el archivo rar.
 
-Haga clic derecho sobre el archivo .zip.
+Haga clic derecho sobre el archivo .rar
 
 Seleccione "Extraer todo..." o "Extraer aquí".
 
